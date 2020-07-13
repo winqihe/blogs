@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # blogvue
 
 ## Project setup
@@ -22,3 +23,6 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+=======
+# blogs
+>>>>>>> ed0daa7932b99673e456719671af92963e8d13d0
